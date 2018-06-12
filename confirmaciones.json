@@ -1,0 +1,53 @@
+[
+ {
+   "ID_CONFIRM": "C9388",
+   "ID_CLITE": 25,
+   "ID_EMP": 12,
+   "FECHA": "01-03-2016",
+   "HORA (TIME)": "21:12",
+   "ID_STATUS_C": "Por Confirmar",
+   "ID_SERVICIO": 42,
+   "HORAS": 2,
+   "PRECIOH": 12000,
+   "TOTAL": 24000,
+   "LONG": 0.2222,
+   "LAT": 0.23222,
+   "CLITE": "Juan Miguel",
+   "EMP": "Daniel Juvinao",
+   "SERVICIO": "Clases de Ingles"
+ },
+ {
+   "ID_CONFIRM": "C9123",
+   "ID_CLITE": 22,
+   "ID_EMP": 12,
+   "FECHA": "05-03-2016",
+   "HORA (TIME)": "7:23",
+   "ID_STATUS_C": "Por Confirmar",
+   "ID_SERVICIO": 52,
+   "HORAS": 4,
+   "PRECIOH": 14000,
+   "TOTAL": 56000,
+   "LONG": 0.1243433,
+   "LAT": 0.23222,
+   "CLITE": "Maria Cespedes",
+   "EMP": "Daniel Juvinao",
+   "SERVICIO": "Grabacion de Videos"
+ },
+ {
+   "ID_CONFIRM": "C9399",
+   "ID_CLITE": 43,
+   "ID_EMP": 12,
+   "FECHA": "08-03-2016",
+   "HORA (TIME)": "15:22",
+   "ID_STATUS_C": "Por Confirmar",
+   "ID_SERVICIO": 18,
+   "HORAS": 3,
+   "PRECIOH": 9000,
+   "TOTAL": 27000,
+   "LONG": 0.122221,
+   "LAT": 0.23222,
+   "CLITE": "Cesar Perez",
+   "EMP": "Daniel Juvinao",
+   "SERVICIO": "Desarrollador Web"
+ }
+]
